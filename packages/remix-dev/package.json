@@ -53,7 +53,7 @@
     "gunzip-maybe": "^1.4.2",
     "jsesc": "3.0.2",
     "json5": "^2.2.2",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "lodash.debounce": "^4.0.8",
     "minimatch": "^9.0.0",
     "ora": "^5.4.1",
